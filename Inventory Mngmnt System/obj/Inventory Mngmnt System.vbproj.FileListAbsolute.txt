@@ -1,0 +1,86 @@
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\Debug\Inventory Mngmnt System.exe
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\Debug\Inventory Mngmnt System.pdb
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\Debug\Inventory Mngmnt System.xml
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\Debug\sa\Inventory Mngmnt System.resources.dll
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.CrystalReport1.rpt
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.About.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmShortcut.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.Help.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmSalesList.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmCustomerList.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmNewCustomer.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmOrderItem.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmItemList.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.Setting.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.Splash.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmLogin.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.MDImain.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.Resources.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.frmNewItem.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.Rpt_Customers.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory Mngmnt System.vbproj.GenerateResource.Cache
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory_Mngmnt_System.Help.sa.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\sa\Inventory Mngmnt System.resources.dll
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory Mngmnt System.exe
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory Mngmnt System.xml
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\Debug\Inventory Mngmnt System.pdb
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\Inventory Mngmnt System.exe
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\Inventory Mngmnt System.pdb
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\Inventory Mngmnt System.xml
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\sa\Inventory Mngmnt System.resources.dll
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.CrystalReport1.rpt
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.About.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmShortcut.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Help.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSalesList.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmCustomerList.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmNewCustomer.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmOrderItem.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmItemList.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Setting.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Splash.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmLogin.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.MDImain.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Resources.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmNewItem.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Rpt_Customers.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.vbproj.GenerateResource.Cache
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Help.sa.resources
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\sa\Inventory Mngmnt System.resources.dll
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.exe
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.xml
+C:\Users\ksour\Documents\Visual Studio 2005\Projects\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.pdb
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.exe
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.xml
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.pdb
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\Inventory Mngmnt System.exe
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\Inventory Mngmnt System.pdb
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\Inventory Mngmnt System.xml
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\bin\x86\Debug\sa\Inventory Mngmnt System.resources.dll
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.CrystalReport1.rpt
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.About.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmShortcut.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Help.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSalesList.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmCustomerList.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmNewCustomer.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmOrderItem.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmItemList.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Setting.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Splash.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmLogin.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.MDImain.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Resources.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmNewItem.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Rpt_Customers.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.vbproj.GenerateResource.Cache
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Help.sa.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\sa\Inventory Mngmnt System.resources.dll
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmReceiveOrder.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSales.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmCategory.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSupplier.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSupplierslist.resources

@@ -1,0 +1,25 @@
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.exe
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.xml
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.pdb
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.About.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSupplierslist.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSupplier.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmCategory.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmReceiveOrder.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSales.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmShortcut.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Help.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmSalesList.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmCustomerList.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmNewCustomer.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmOrderItem.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmItemList.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Setting.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Splash.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmLogin.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.MDImain.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Resources.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.frmNewItem.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Rpt_Customers.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory_Mngmnt_System.Help.sa.resources
+F:\Important\My Project\Inventory Mngmnt System\Inventory Mngmnt System\obj\x86\Debug\Inventory Mngmnt System.vbproj.GenerateResource.Cache
